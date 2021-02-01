@@ -1,0 +1,1 @@
+# Needleman-Wunsch_script
